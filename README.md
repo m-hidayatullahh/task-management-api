@@ -32,7 +32,7 @@ Task Management API adalah aplikasi backend untuk mengelola tugas. API ini menca
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-repo/task-management-api.git
+git clone https://github.com/m-hidayatullahh/task-management-api
 cd task-management-api
 ```
 ### 2.  Install Dependencies
